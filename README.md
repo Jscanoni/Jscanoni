@@ -4,7 +4,7 @@
 
 ## About me
 
-- ✨ Creating bugs since 2023
+- ✨ Breaking my head since 2023
 - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="17" />
 - 🎯 Goals: live in a cold place <img width="17" height="17" src="https://img.icons8.com/emoji/48/germany-emoji.png" alt="germany-emoji"/> and drive Japanese cars <img width="17" height="17" src="https://img.icons8.com/emoji/48/japan-emoji.png" alt="japan-emoji"/>
 - 🎲 And ... I like house music 🎵 and sports cars🏎️
